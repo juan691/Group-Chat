@@ -1,4 +1,4 @@
-# Group-Chat
+# Group-Chat in python
 Using sockets to allow multiple clients to connect to server that allows the clients to all communicate with each other.
 
 First you need to run the server.py and then choose an open port through which the program will communicate,
